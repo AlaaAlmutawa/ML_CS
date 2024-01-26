@@ -1,0 +1,56 @@
+
+Step      1: Total number of trainable weights: 53812480
+Step      1: Ran 1 train steps in 57.93 secs
+Step      1: train CrossEntropyLoss |  10.41806316
+Step      1: eval  CrossEntropyLoss |  10.37084103
+Step      1: eval          Accuracy |  0.00000000
+
+Step     10: Ran 9 train steps in 311.26 secs
+Step     10: train CrossEntropyLoss |  10.29054642
+Step     10: eval  CrossEntropyLoss |  10.09059525
+Step     10: eval          Accuracy |  0.05581395
+
+Step     20: Ran 10 train steps in 383.80 secs
+Step     20: train CrossEntropyLoss |  9.88360214
+Step     20: eval  CrossEntropyLoss |  9.67781925
+Step     20: eval          Accuracy |  0.03355705
+
+Step     30: Ran 10 train steps in 384.20 secs
+Step     30: train CrossEntropyLoss |  9.33704853
+Step     30: eval  CrossEntropyLoss |  8.98304176
+Step     30: eval          Accuracy |  0.05128205
+
+Step     40: Ran 10 train steps in 384.12 secs
+Step     40: train CrossEntropyLoss |  8.41373634
+Step     40: eval  CrossEntropyLoss |  8.21955299
+Step     40: eval          Accuracy |  0.03030303
+
+Step     50: Ran 10 train steps in 385.52 secs
+Step     50: train CrossEntropyLoss |  8.17722130
+Step     50: eval  CrossEntropyLoss |  7.41301298
+Step     50: eval          Accuracy |  0.04868914
+
+Step     60: Ran 10 train steps in 356.02 secs
+Step     60: train CrossEntropyLoss |  8.01351166
+Step     60: eval  CrossEntropyLoss |  8.35067654
+Step     60: eval          Accuracy |  0.03174603
+
+Step     70: Ran 10 train steps in 290.18 secs
+Step     70: train CrossEntropyLoss |  7.89322519
+Step     70: eval  CrossEntropyLoss |  7.46340942
+Step     70: eval          Accuracy |  0.00000000
+
+Step     80: Ran 10 train steps in 259.42 secs
+Step     80: train CrossEntropyLoss |  7.94792080
+Step     80: eval  CrossEntropyLoss |  8.46481419
+Step     80: eval          Accuracy |  0.02985075
+
+Step     90: Ran 10 train steps in 293.28 secs
+Step     90: train CrossEntropyLoss |  7.99221802
+Step     90: eval  CrossEntropyLoss |  8.62433624
+Step     90: eval          Accuracy |  0.02991453
+
+Step    100: Ran 10 train steps in 294.29 secs
+Step    100: train CrossEntropyLoss |  7.93268347
+Step    100: eval  CrossEntropyLoss |  8.28704834
+Step    100: eval          Accuracy |  0.02112676
