@@ -2,6 +2,7 @@
 ## README
 
 Dataset can be found in: https://huggingface.co/datasets/scientific_papers
+## Deliverables apart of Machine Learning course project 
 
 ## Decoder-only model: 
 
